@@ -5,6 +5,7 @@
 ![IMAGE CAN'T BE LOADED](preview.png) 
 
 # How to use it?
+[Load an extension guide](https://developer.chrome.com/docs/extensions/mv3/agetstarted/#unpacked)
 
 1. [download](https://github.com/Rxmsey/ramchess-lichess-browser-assistance/archive/refs/heads/main.zip) and unzip the folder.
 
