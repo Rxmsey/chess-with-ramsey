@@ -3,10 +3,10 @@
 
 
   "manifest_version": 2,
-  "name": "Ramch",
+  "name": "Ramchess",
   "description": "Chess Next Move Ai on Lichess",
   "version": "1.36",
-  "homepage_url": "http://www.github.com/Rxamsey",
+  "homepage_url": "http://www.github.com/Rxmsey",
   "author": "GBChess Admin",
   "icons": {
     "16": "icons/icon16.png",
