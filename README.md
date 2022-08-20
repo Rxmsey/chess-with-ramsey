@@ -9,7 +9,7 @@
 
 1. [download](https://github.com/Rxmsey/ramchess-lichess-browser-assistance/archive/refs/heads/main.zip) and unzip the folder.
 
-2. Head to the [Edge extensions](edge://extensions/) page and `enable developers mode`
+2. Head to the [Edge extensions](edge://extensions/) page and `enable developer mode`
 ![IMAGE CAN'T BE LOADED](https://cdn.discordapp.com/attachments/1007798294073835562/1010637438772850779/unknown.png)
 
 3. Click `Load unpacked` and then select the folder you downloaded.
