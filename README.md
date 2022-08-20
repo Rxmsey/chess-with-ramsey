@@ -1,6 +1,6 @@
 # What is Ramchess?
 
-### A fun undetectable [lichess](lichess.org) extension that suggests the best next move while playing
+ A fun undetectable [lichess](lichess.org) AI extension that suggests the best next move while playing
 
 ![IMAGE CAN'T BE LOADED](preview.png) 
 
