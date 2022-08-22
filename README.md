@@ -7,7 +7,7 @@
 # How to use it?
 [Load an extension guide](https://developer.chrome.com/docs/extensions/mv3/agetstarted/#unpacked)
 
-1. [download](https://github.com/Rxmsey/ramchess-lichess-browser-assistance/archive/refs/heads/main.zip) and unzip the folder.
+1. Go on and [download](https://github.com/Rxmsey/ramchess-lichess-browser-assistance/archive/refs/heads/main.zip) and unzip the folder.
 
 2. Head to the [Edge extensions](edge://extensions/) page and `enable developer mode`
 ![IMAGE CAN'T BE LOADED](https://cdn.discordapp.com/attachments/1007798294073835562/1010637438772850779/unknown.png)
