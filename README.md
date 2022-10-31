@@ -1,4 +1,5 @@
 # What is Ramchess?
+I AM NO LONGER WORKING ON THIS PROJECT, IT'S WORKING 100% BUT IF IT STOPPED WORKING AFTER JANUARY 2023 YOU CAN JUST MODIFY THE FILES AND MIGRANT FROM MAINIFEST v2 TO MANIFEST v3
 
  A fun undetectable [lichess](lichess.org) AI extension that suggests the best next move while playing
 
